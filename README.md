@@ -15,11 +15,11 @@
 
 - 📝 I regularly write articles on [https://josefyaduvanshi.medium.com/](https://josefyaduvanshi.medium.com/)
 
-- 💬 Ask me about **Flutter, Web**
+- 💬 Ask me about **Flutter, Dart & APP Development**
 
 - 📫 How to reach me => Email: josefyaduvanshi@gmail.com 
 
-- 📄 Know about my experiences [Will update soon/](Will update soon/)
+- 📄 Know about my experiences [Will update soon](Will update soon)
 
 ### Blogs posts
 <p align="left">
