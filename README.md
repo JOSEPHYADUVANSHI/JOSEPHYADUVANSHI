@@ -48,7 +48,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=josephyaduvanshi&show_icons=true&locale=en" alt="josephyaduvanshi" /></p>
 
 ### Some Philosophy:
-![]([https://quotes-github-readme.vercel.app/api?type=horizontal&theme=algolia](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=nord))
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=nord)
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=josephyaduvanshi&" alt="josephyaduvanshi" /></p>
 
