@@ -22,16 +22,16 @@
 - 📄 Know about my experiences [Will update soon/](Will update soon/)
 
 ### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+<p align="left">
+<a href="https://dev.to/josephyaduvanshi" target="blank"><img align="center" src="https://img.icons8.com/?id=19293&format=png&size=96&name=icons8-code-96.png&fromSite=true&token=&color=000000" alt="josephyaduvanshi" height="30" width="40" /></a>
+<a href="https://medium.com/@josefyaduvanshi" target="blank"><img align="center" src="https://img.icons8.com/stickers/200/000000/medium-logo.png" alt="@josefyaduvanshi" height="30" width="40" /></a>
+</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://dev.to/josephyaduvanshi" target="blank"><img align="center" src="https://img.icons8.com/?id=19293&format=png&size=96&name=icons8-code-96.png&fromSite=true&token=&color=000000" alt="josephyaduvanshi" height="30" width="40" /></a>
 <a href="https://twitter.com/josefyaduvanshi" target="blank"><img align="center" src="https://img.icons8.com/?id=13963&format=svg&size=96&name=icons8-twitter.svg&fromSite=true&token=&color=000000" alt="josefyaduvanshi" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/josephyaduvanshi" target="blank"><img align="center" src="https://img.icons8.com/?id=21088&format=svg&size=160&name=icons8-linkedin.svg&fromSite=true&token=&color=000000" alt="josephyaduvanshi" height="30" width="40" /></a>
 <a href="https://instagram.com/joseph_yaduvanshi" target="blank"><img align="center" src="https://img.icons8.com/?id=Xy10Jcu1L2Su&format=png&size=240&name=icons8-instagram-240.png&fromSite=true&token=&color=000000" alt="joseph_yaduvanshi" height="30" width="40" /></a>
-<a href="https://medium.com/@josefyaduvanshi" target="blank"><img align="center" src="https://img.icons8.com/stickers/200/000000/medium-logo.png" alt="@josefyaduvanshi" height="30" width="40" /></a>
 <a href="https://discord.gg/sylas0p#3692" target="blank"><img align="center" src="https://img.icons8.com/?id=alUj8grSk3RX&format=svg&size=240&name=icons8-discord.svg&fromSite=true&token=&color=000000" alt="sylas0p#3692" height="30" width="40" /></a>
 </p>
 
