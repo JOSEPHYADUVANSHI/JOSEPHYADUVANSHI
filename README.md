@@ -40,12 +40,12 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=josephyaduvanshi&show_icons=true&locale=en&layout=compact" alt="josephyaduvanshi" /></p>
 
-<br><p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=josephyaduvanshi&show_icons=true&locale=en&layout=compact" alt="josephyaduvanshi" /></p></br>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=josephyaduvanshi&show_icons=true&locale=en&layout=compact" alt="josephyaduvanshi" /></p>
 
 <!-- <h3 align="left">Some Philosophy:</h3>
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=algolia) -->
 ### Some Philosophy:
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=algolia)
+<br>![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=algolia)</br>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=josephyaduvanshi&show_icons=true&locale=en" alt="josephyaduvanshi" /></p>
 
