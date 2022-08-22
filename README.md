@@ -41,8 +41,8 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=josephyaduvanshi&show_icons=true&locale=en&layout=compact" alt="josephyaduvanshi" /></p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=josephyaduvanshi&show_icons=true&locale=en&layout=compact" alt="josephyaduvanshi" /></p>
-<br>
-### Some Philosophy!
+
+<h3 align="left">Some Philosophy:</h3>
 ![Josef](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=algolia)
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=josephyaduvanshi&show_icons=true&locale=en" alt="josephyaduvanshi" /></p>
