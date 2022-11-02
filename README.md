@@ -50,5 +50,7 @@
 ### Some Philosophy:
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=nord)
 
+[![](https://visitcount.itsvg.in/api?id=josephyaduvanshi&label=Profile%20Views&icon=8&pretty=false)](https://visitcount.itsvg.in)
+
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=josephyaduvanshi&" alt="josephyaduvanshi" /></p>
 
