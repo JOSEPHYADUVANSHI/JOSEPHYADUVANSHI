@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Flutter, Kotlin, Javascript**
 
-- 🤝 I’m looking for help with **Django**
+- 🤝 I’m looking for help with **RUST**
 
 - 👨‍💻 All of my projects are available at [https://github.com/JOSEPHYADUVANSHI](https://github.com/JOSEPHYADUVANSHI)
 
