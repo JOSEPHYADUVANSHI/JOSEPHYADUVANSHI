@@ -1,18 +1,4 @@
 <h1 align="center">Hi 👋, I'm Joseph Yaduvanshi</h1>
-```
-#include <iostream>
-#include <string>
-
-int main() {
-    std::string name = "Joseph Yaduvanshi";
-    std::cout << "Step right up folks and behold the coding genius of " << name << "." << std::endl;
-    std::cout << "I'll take your boring old apps and turn them into Flutter-ific masterpieces." << std::endl;
-    std::cout << "And when I'm done, I'll add a dash of Python magic to make sure everything runs like a dream." << std::endl;
-    std::cout << "So don't just sit there, let's build something amazing together! " << std::endl;
-    return 0;
-}
-
-```
 <h3 align="center">TECH ENTHUSIAST || APP DEVELOPMENT ❤️ || eatSleepCode — repeat👨🏻‍💻 | Okay BYEE!</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=josephyaduvanshi" alt="josephyaduvanshi" /></a> </p>
