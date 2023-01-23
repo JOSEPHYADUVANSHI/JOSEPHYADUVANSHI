@@ -44,16 +44,10 @@ BYEE! <img src="https://media.giphy.com/media/xAqHUL21pMHe0/giphy.gif" width="30
 
 ----
 
-<a href="https://github.com/antonkomarev/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=josephyaduvanshi&style=for-the-badge">
-</a>
-
-<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjosephyaduvanshi%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
 
 <a href="https://github.com/josephyaduvanshi/github_view_counter">
     <img src="https://github-tools-josef.up.railway.app/views-counts?username=josephyaduvanshi">
 </a>
-
 
 ## <img src="https://media.giphy.com/media/PjJ3G4xhh8KK6jQzqP/giphy.gif" width="34"> About
 
