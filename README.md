@@ -41,6 +41,7 @@ int main()
 DEVELOPMENT <img src="https://media.giphy.com/media/vjSpbJ9VuX9gojDttn/giphy.gif" width="25"> || eatSleepCode —
 repeat👨<img src="https://media.giphy.com/media/cIn5fTcjnKhStIeAef/giphy.gif" width="28" alt="Coding"> | Okay
 BYEE! <img src="https://media.giphy.com/media/xAqHUL21pMHe0/giphy.gif" width="30"> </h3>
+
 ----
 
 
@@ -61,8 +62,6 @@ BYEE! <img src="https://media.giphy.com/media/xAqHUL21pMHe0/giphy.gif" width="30
 - 💬 Ask me about **Flutter, Dart & APP Development**
 
 - 🙋🏻 How to reach me: 📩 me at [josefyaduvanshi@gmail.com](mailto:)
-
-----
 
 ## <img src="https://media.giphy.com/media/PH1TxJq570y68qujjO/giphy.gif" width="30"> Blog Posts
 
@@ -85,55 +84,60 @@ BYEE! <img src="https://media.giphy.com/media/xAqHUL21pMHe0/giphy.gif" width="30
 ## <img src="https://media.giphy.com/media/f7omQNmgiyjj5sffvZ/giphy.gif" width="35"> Programming Languages
 
   <p>
-      <a href="https://github.com/josephyaduvanshi/github_view_counter"><img alt="C++" src="https://github-views-counter.up.railway.app?hasLabel=false&logo=flutter&message=Flutter&style=plastic&logoSpacing=0"></a>
+      <a href="https://github.com/josephyaduvanshi/github_view_counter"><img alt="Flutter" src="https://github-views-counter.up.railway.app?hasLabel=false&logo=flutter&message=Flutter&style=plastic&logoSpacing=0"></a>
       <a href="https://github.com/josephyaduvanshi/github_view_counter"><img alt="C++" src="https://github-views-counter.up.railway.app?hasLabel=false&logo=cplusplus&message=C%2B%2B&style=plastic&logoSpacing=0"></a>
-      <a href="https://github.com/josephyaduvanshi/github_view_counter"><img alt="C++" src="https://github-views-counter.up.railway.app?hasLabel=false&logo=dart&message=Dart&style=plastic&logoSpacing=0"></a>
-      <a href="https://github.com/josephyaduvanshi/github_view_counter"><img alt="C++" src="https://github-views-counter.up.railway.app?hasLabel=false&logo=Rust&message=Rust&style=plastic&logoSpacing=0&labelColor=607d8b"></a>
-      <a href="https://github.com/josephyaduvanshi/github_view_counter"><img alt="C++" src="https://github-views-counter.up.railway.app?hasLabel=false&logo=dotnet&message=.Net&style=plastic&logoSpacing=0&labelColor=607d8b"></a>
-      <a href="https://github.com/josephyaduvanshi/github_view_counter"><img alt="C++" src="https://github-views-counter.up.railway.app?hasLabel=false&logo=Python&message=Python&style=plastic&logoSpacing=0"></a>
-      <a href="https://github.com/josephyaduvanshi/github_view_counter"><img alt="C++" src="https://github-views-counter.up.railway.app?hasLabel=false&logo=css3&message=CSS&style=plastic&logoSpacing=0"></a>
-      <a href="https://github.com/josephyaduvanshi/github_view_counter"><img alt="C++" src="https://github-views-counter.up.railway.app?hasLabel=false&logo=html5&message=HTML&style=plastic&logoSpacing=0"></a>
+      <a href="https://github.com/josephyaduvanshi/github_view_counter"><img alt="Dart" src="https://github-views-counter.up.railway.app?hasLabel=false&logo=dart&message=Dart&style=plastic&logoSpacing=0"></a>
+      <a href="https://github.com/josephyaduvanshi/github_view_counter"><img alt="Rust" src="https://github-views-counter.up.railway.app?hasLabel=false&logo=Rust&message=Rust&style=plastic&logoSpacing=0&labelColor=607d8b"></a>
+      <a href="https://github.com/josephyaduvanshi/github_view_counter"><img alt=".Net" src="https://github-views-counter.up.railway.app?hasLabel=false&logo=dotnet&message=.Net&style=plastic&logoSpacing=0&labelColor=607d8b"></a>
+      <a href="https://github.com/josephyaduvanshi/github_view_counter"><img alt="Python" src="https://github-views-counter.up.railway.app?hasLabel=false&logo=Python&message=Python&style=plastic&logoSpacing=0"></a>
+      <a href="https://github.com/josephyaduvanshi/github_view_counter"><img alt="CSS" src="https://github-views-counter.up.railway.app?hasLabel=false&logo=css3&message=CSS&style=plastic&logoSpacing=0"></a>
+      <a href="https://github.com/josephyaduvanshi/github_view_counter"><img alt="HTML" src="https://github-views-counter.up.railway.app?hasLabel=false&logo=html5&message=HTML&style=plastic&logoSpacing=0"></a>
       <a href="https://github.com/josephyaduvanshi/github_view_counter"><img alt="Java" src="https://custom-icon-badges.demolab.com/badge/Java-007396.svg?logo=java&logoColor=white"></a>
-      <a href="https://github.com/josephyaduvanshi/github_view_counter"><img alt="C++" src="https://github-views-counter.up.railway.app?hasLabel=false&logo=javascript&message=Javascript&style=plastic&logoSpacing=0"></a>
-      <a href="https://github.com/josephyaduvanshi/github_view_counter"><img alt="C++" src="https://github-views-counter.up.railway.app?hasLabel=false&logo=kotlin&message=kotlin&style=plastic&logoSpacing=15"></a>
-      <a href="https://github.com/josephyaduvanshi/github_view_counter"><img alt="C++" src="https://github-views-counter.up.railway.app?hasLabel=false&logo=markdown&message=Markdown&style=plastic&logoSpacing=0"></a>
+      <a href="https://github.com/josephyaduvanshi/github_view_counter"><img alt="Javascript" src="https://github-views-counter.up.railway.app?hasLabel=false&logo=javascript&message=Javascript&style=plastic&logoSpacing=0"></a>
+      <a href="https://github.com/josephyaduvanshi/github_view_counter"><img alt="kotlin++" src="https://github-views-counter.up.railway.app?hasLabel=false&logo=kotlin&message=kotlin&style=plastic&logoSpacing=15"></a>
+      <a href="https://github.com/josephyaduvanshi/github_view_counter"><img alt="Markdown" src="https://github-views-counter.up.railway.app?hasLabel=false&logo=markdown&message=Markdown&style=plastic&logoSpacing=0"></a>
 
   </p>
+
+## <img src="https://media.giphy.com/media/Ig7btntW8d1LtMjCa1/giphy.gif" width="35"> Services and Databases
+
+<p>
+      <a href="https://github.com/josephyaduvanshi/github_view_counter"><img alt="SQLite" src="https://github-views-counter.up.railway.app?hasLabel=false&logo=sqlite&message=SQLite&style=plastic&logoSpacing=0"></a>
+      <a href="https://github.com/josephyaduvanshi/github_view_counter"><img alt="SQL" src="https://github-views-counter.up.railway.app?hasLabel=false&logo=amazondynamodb&message=SQL&style=plastic&logoSpacing=0"></a>
+      <a href="https://github.com/josephyaduvanshi/github_view_counter"><img alt="Firebase" src="https://github-views-counter.up.railway.app?hasLabel=false&logo=firebase&message=Firebase&style=plastic&logoSpacing=0"></a>
+      <a href="https://github.com/josephyaduvanshi/github_view_counter"><img alt="Supabase++" src="https://github-views-counter.up.railway.app?hasLabel=false&logo=supabase&message=Supabase&style=plastic&logoSpacing=0"></a>
+      <a href="https://github.com/josephyaduvanshi/github_view_counter"><img alt="Appwrite" src="https://github-views-counter.up.railway.app?hasLabel=false&logo=appwrite&message=Appwrite&style=plastic&logoSpacing=0"></a>
+      <a href="https://github.com/josephyaduvanshi/github_view_counter"><img alt="Railway" src="https://github-views-counter.up.railway.app?hasLabel=false&logo=railway&message=Railway&style=plastic&logoSpacing=0"></a>
+      <a href="https://github.com/josephyaduvanshi/github_view_counter"><img alt="Vercel" src="https://github-views-counter.up.railway.app?hasLabel=false&logo=vercel&message=Vercel&style=plastic&logoSpacing=0"></a>
+      <a href="https://github.com/josephyaduvanshi/github_view_counter"><img alt="Telegram-API" src="https://github-views-counter.up.railway.app?hasLabel=false&logo=telegram&message=Telegram-API&style=plastic&logoSpacing=0"></a>
+      <a href="https://github.com/josephyaduvanshi/github_view_counter"><img alt="Flask" src="https://github-views-counter.up.railway.app?hasLabel=false&logo=flask&message=Flask&style=plastic&logoSpacing=0"></a>
+      <a href="https://github.com/josephyaduvanshi/github_view_counter"><img alt="FastAPI" src="https://github-views-counter.up.railway.app?hasLabel=false&logo=fastapi&message=Fast API&style=plastic&logoSpacing=0"></a>
+      <a href="https://github.com/josephyaduvanshi/github_view_counter"><img alt="AwsLambda" src="https://github-views-counter.up.railway.app?hasLabel=false&logo=awslambda&message=AWS Lambda&style=plastic&logoSpacing=0"></a>
+      <a href="https://github.com/josephyaduvanshi/github_view_counter"><img alt="AWS++" src="https://github-views-counter.up.railway.app?hasLabel=false&logo=amazonaws&message=AWS&style=plastic&logoSpacing=0"></a>
+      <a href="https://github.com/josephyaduvanshi/github_view_counter"><img alt="EC2" src="https://github-views-counter.up.railway.app?hasLabel=false&logo=amazonec2&message=Amazon EC2&style=plastic&logoSpacing=0"></a>
+      <a href="https://github.com/josephyaduvanshi/github_view_counter"><img alt="AzureFunctions" src="https://github-views-counter.up.railway.app?hasLabel=false&logo=azurefunctions&message=Azure Functions&style=plastic&logoSpacing=0"></a>
+      <a href="https://github.com/josephyaduvanshi/github_view_counter"><img alt="Azure" src="https://github-views-counter.up.railway.app?hasLabel=false&logo=microsoftazure&message=Microsoft Azure&style=plastic&logoSpacing=0"></a>
+</p>
 
 ## <img src="https://media.giphy.com/media/Vf3ZKdillTMOOaOho0/giphy.gif" width="35"> Software and Tools
 
   <p>
-      <a href="https://github.com/josephyaduvanshi/github_view_counter"><img alt="C++" src="https://github-views-counter.up.railway.app?hasLabel=false&logo=visualstudiocode&message=Visual Studio Code&style=plastic&logoSpacing=0"></a>
-      <a href="https://github.com/josephyaduvanshi/github_view_counter"><img alt="C++" src="https://github-views-counter.up.railway.app?hasLabel=false&logo=visualstudio&message=Visual Studio&style=plastic&logoSpacing=0"></a>
-      <a href="https://github.com/josephyaduvanshi/github_view_counter"><img alt="C++" src="https://github-views-counter.up.railway.app?hasLabel=false&logo=pycharm&message=PyCharm&style=plastic&logoSpacing=0"></a>
-      <a href="https://github.com/josephyaduvanshi/github_view_counter"><img alt="C++" src="https://github-views-counter.up.railway.app?hasLabel=false&logo=intellijidea&message=IntelliJ Idea&style=plastic&logoSpacing=0"></a>
-      <a href="https://github.com/josephyaduvanshi/github_view_counter"><img alt="C++" src="https://github-views-counter.up.railway.app?hasLabel=false&logo=sqlite&message=SQLite&style=plastic&logoSpacing=0"></a>
-      <a href="https://github.com/josephyaduvanshi/github_view_counter"><img alt="C++" src="https://github-views-counter.up.railway.app?hasLabel=false&logo=amazondynamodb&message=SQL&style=plastic&logoSpacing=0"></a>
-      <a href="https://github.com/josephyaduvanshi/github_view_counter"><img alt="C++" src="https://github-views-counter.up.railway.app?hasLabel=false&logo=firebase&message=Firebase&style=plastic&logoSpacing=0"></a>
-      <a href="https://github.com/josephyaduvanshi/github_view_counter"><img alt="C++" src="https://github-views-counter.up.railway.app?hasLabel=false&logo=supabase&message=Supabase&style=plastic&logoSpacing=0"></a>
-      <a href="https://github.com/josephyaduvanshi/github_view_counter"><img alt="C++" src="https://github-views-counter.up.railway.app?hasLabel=false&logo=appwrite&message=Appwrite&style=plastic&logoSpacing=0"></a>
-      <a href="https://github.com/josephyaduvanshi/github_view_counter"><img alt="C++" src="https://github-views-counter.up.railway.app?hasLabel=false&logo=railway&message=Railway&style=plastic&logoSpacing=0"></a>
-      <a href="https://github.com/josephyaduvanshi/github_view_counter"><img alt="C++" src="https://github-views-counter.up.railway.app?hasLabel=false&logo=vercel&message=Vercel&style=plastic&logoSpacing=0"></a>
-      <a href="https://github.com/josephyaduvanshi/github_view_counter"><img alt="C++" src="https://github-views-counter.up.railway.app?hasLabel=false&logo=telegram&message=Telegram-API&style=plastic&logoSpacing=0"></a>
-      <a href="https://github.com/josephyaduvanshi/github_view_counter"><img alt="C++" src="https://github-views-counter.up.railway.app?hasLabel=false&logo=flask&message=Flask&style=plastic&logoSpacing=0"></a>
-      <a href="https://github.com/josephyaduvanshi/github_view_counter"><img alt="C++" src="https://github-views-counter.up.railway.app?hasLabel=false&logo=fastapi&message=Fast API&style=plastic&logoSpacing=0"></a>
-      <a href="https://github.com/josephyaduvanshi/github_view_counter"><img alt="C++" src="https://github-views-counter.up.railway.app?hasLabel=false&logo=awslambda&message=AWS Lambda&style=plastic&logoSpacing=0"></a>
-      <a href="https://github.com/josephyaduvanshi/github_view_counter"><img alt="C++" src="https://github-views-counter.up.railway.app?hasLabel=false&logo=amazonaws&message=AWS&style=plastic&logoSpacing=0"></a>
-      <a href="https://github.com/josephyaduvanshi/github_view_counter"><img alt="C++" src="https://github-views-counter.up.railway.app?hasLabel=false&logo=amazonec2&message=Amazon EC2&style=plastic&logoSpacing=0"></a>
-      <a href="https://github.com/josephyaduvanshi/github_view_counter"><img alt="C++" src="https://github-views-counter.up.railway.app?hasLabel=false&logo=azurefunctions&message=Azure Functions&style=plastic&logoSpacing=0"></a>
-      <a href="https://github.com/josephyaduvanshi/github_view_counter"><img alt="C++" src="https://github-views-counter.up.railway.app?hasLabel=false&logo=microsoftazure&message=Microsoft Azure&style=plastic&logoSpacing=0"></a>
-      <a href="https://github.com/josephyaduvanshi/github_view_counter"><img alt="C++" src="https://github-views-counter.up.railway.app?hasLabel=false&logo=microsoftoffice&message=Microsoft Office&style=plastic&logoSpacing=0"></a>
-      <a href="https://github.com/josephyaduvanshi/github_view_counter"><img alt="C++" src="https://github-views-counter.up.railway.app?hasLabel=false&logo=adobecreativecloud&message=Adobe Tools&style=plastic&logoSpacing=0"></a>
-      <a href="https://github.com/josephyaduvanshi/github_view_counter"><img alt="C++" src="https://github-views-counter.up.railway.app?hasLabel=false&logo=android&message=Android&style=plastic&logoSpacing=0"></a>
-      <a href="https://github.com/josephyaduvanshi/github_view_counter"><img alt="C++" src="https://github-views-counter.up.railway.app?hasLabel=false&logo=androidstudio&message=Android Studio&style=plastic&logoSpacing=0"></a>
-      <a href="https://github.com/josephyaduvanshi/github_view_counter"><img alt="C++" src="https://github-views-counter.up.railway.app?hasLabel=false&logo=brave&message=Brave&style=plastic&logoSpacing=0"></a>
-      <a href="https://github.com/josephyaduvanshi/github_view_counter"><img alt="C++" src="https://github-views-counter.up.railway.app?hasLabel=false&logo=git&message=Git&style=plastic&logoSpacing=0"></a>
-      <a href="https://github.com/josephyaduvanshi/github_view_counter"><img alt="C++" src="https://github-views-counter.up.railway.app?hasLabel=false&logo=github&message=Github Desktop&style=plastic&logoSpacing=0"></a>
-      <a href="https://github.com/josephyaduvanshi/github_view_counter"><img alt="C++" src="https://github-views-counter.up.railway.app?hasLabel=false&logo=googlesheets&message=Google Sheets&style=plastic&logoSpacing=0"></a>
-      <a href="https://github.com/josephyaduvanshi/github_view_counter"><img alt="C++" src="https://github-views-counter.up.railway.app?hasLabel=false&logo=photopea&message=Photo Pea&style=plastic&logoSpacing=0"></a>
-      <a href="https://github.com/josephyaduvanshi/github_view_counter"><img alt="C++" src="https://github-views-counter.up.railway.app?hasLabel=false&logo=postman&message=Postman&style=plastic&logoSpacing=0"></a>
-      <a href="https://github.com/josephyaduvanshi/github_view_counter"><img alt="C++" src="https://github-views-counter.up.railway.app?hasLabel=false&logo=sonarlint&message=SonarLint&style=plastic&logoSpacing=0"></a>
-  </p>
+      <a href="https://github.com/josephyaduvanshi/github_view_counter"><img alt="VSCode" src="https://github-views-counter.up.railway.app?hasLabel=false&logo=visualstudiocode&message=Visual Studio Code&style=plastic&logoSpacing=0"></a>
+      <a href="https://github.com/josephyaduvanshi/github_view_counter"><img alt="VisualStudio" src="https://github-views-counter.up.railway.app?hasLabel=false&logo=visualstudio&message=Visual Studio&style=plastic&logoSpacing=0"></a>
+      <a href="https://github.com/josephyaduvanshi/github_view_counter"><img alt="PyCharm" src="https://github-views-counter.up.railway.app?hasLabel=false&logo=pycharm&message=PyCharm&style=plastic&logoSpacing=0"></a>
+      <a href="https://github.com/josephyaduvanshi/github_view_counter"><img alt="IntelliJ" src="https://github-views-counter.up.railway.app?hasLabel=false&logo=intellijidea&message=IntelliJ Idea&style=plastic&logoSpacing=0"></a>
+      <a href="https://github.com/josephyaduvanshi/github_view_counter"><img alt="Office365" src="https://github-views-counter.up.railway.app?hasLabel=false&logo=microsoftoffice&message=Microsoft Office&style=plastic&logoSpacing=0"></a>
+      <a href="https://github.com/josephyaduvanshi/github_view_counter"><img alt="Adobe" src="https://github-views-counter.up.railway.app?hasLabel=false&logo=adobecreativecloud&message=Adobe Tools&style=plastic&logoSpacing=0"></a>
+      <a href="https://github.com/josephyaduvanshi/github_view_counter"><img alt="Android" src="https://github-views-counter.up.railway.app?hasLabel=false&logo=android&message=Android&style=plastic&logoSpacing=0"></a>
+      <a href="https://github.com/josephyaduvanshi/github_view_counter"><img alt="Android Studio" src="https://github-views-counter.up.railway.app?hasLabel=false&logo=androidstudio&message=Android Studio&style=plastic&logoSpacing=0"></a>
+      <a href="https://github.com/josephyaduvanshi/github_view_counter"><img alt="Brave++" src="https://github-views-counter.up.railway.app?hasLabel=false&logo=brave&message=Brave&style=plastic&logoSpacing=0"></a>
+      <a href="https://github.com/josephyaduvanshi/github_view_counter"><img alt="Git" src="https://github-views-counter.up.railway.app?hasLabel=false&logo=git&message=Git&style=plastic&logoSpacing=0"></a>
+      <a href="https://github.com/josephyaduvanshi/github_view_counter"><img alt="Github" src="https://github-views-counter.up.railway.app?hasLabel=false&logo=github&message=Github Desktop&style=plastic&logoSpacing=0"></a>
+      <a href="https://github.com/josephyaduvanshi/github_view_counter"><img alt="GoogleSheets" src="https://github-views-counter.up.railway.app?hasLabel=false&logo=googlesheets&message=Google Sheets&style=plastic&logoSpacing=0"></a>
+      <a href="https://github.com/josephyaduvanshi/github_view_counter"><img alt="PhotoPea" src="https://github-views-counter.up.railway.app?hasLabel=false&logo=photopea&message=Photo Pea&style=plastic&logoSpacing=0"></a>
+      <a href="https://github.com/josephyaduvanshi/github_view_counter"><img alt="Postman" src="https://github-views-counter.up.railway.app?hasLabel=false&logo=postman&message=Postman&style=plastic&logoSpacing=0"></a>
+      <a href="https://github.com/josephyaduvanshi/github_view_counter"><img alt="SonarLint" src="https://github-views-counter.up.railway.app?hasLabel=false&logo=sonarlint&message=SonarLint&style=plastic&logoSpacing=0"></a>
+</p>
 
 ## <img src="https://media.giphy.com/media/jUQHpQ3UjFBfRlQekP/giphy.gif" width="35"> GitHub Stats
 
