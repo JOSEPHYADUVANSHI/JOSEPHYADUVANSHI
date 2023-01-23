@@ -46,6 +46,7 @@ BYEE! <img src="https://media.giphy.com/media/xAqHUL21pMHe0/giphy.gif" width="30
 
 
 <p><img alt="views" title="Profile views" src="https://github-views-counter.up.railway.app"/></p>
+![](https://github-views-counter.up.railway.app)
 
 ## <img src="https://media.giphy.com/media/PjJ3G4xhh8KK6jQzqP/giphy.gif" width="34"> About
 
