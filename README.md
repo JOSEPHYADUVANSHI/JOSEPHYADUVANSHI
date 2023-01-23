@@ -45,16 +45,19 @@ BYEE! <img src="https://media.giphy.com/media/xAqHUL21pMHe0/giphy.gif" width="30
 ----
 
 
-[//]: # (<p><img alt="views" title="Profile views" src="https://github-tools-josef.up.railway.app/views-counter?username=josephyaduvanshi"/></p>)
+<p><img alt="views" title="Profile views" src="https://github-tools-josef.up.railway.app/views-counter?username=josephyaduvanshi"/></p>
 
+[//]: # (![]&#40;https://github-tools-josef.up.railway.app/views-counter?username=josephyaduvanshi&#41;)
 
 <a href="https://github.com/antonkomarev/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=josephyaduvanshi&style=for-the-badge">
 </a>
 
- <a href="https://github.com/josephyaduvanshi/github_view_counter">
-    <img src="https://github-tools-josef.up.railway.app/views-counter?username=josephyaduvanshi">
-</a>
+[//]: # ( <a href="https://github.com/josephyaduvanshi/github_view_counter">)
+
+[//]: # (    <img src="https://github-tools-josef.up.railway.app/views-counter?username=josephyaduvanshi">)
+
+[//]: # (</a>)
 
 ## <img src="https://media.giphy.com/media/PjJ3G4xhh8KK6jQzqP/giphy.gif" width="34"> About
 
