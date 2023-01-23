@@ -49,6 +49,15 @@ BYEE! <img src="https://media.giphy.com/media/xAqHUL21pMHe0/giphy.gif" width="30
 
 ![](https://github-views-counter.up.railway.app)
 
+<a href="https://github.com/antonkomarev/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=antonkomarev&style=for-the-badge">
+</a>
+
+<a href="https://github.com/josephyaduvanshi/github_view_counter">
+    <img src="https://github-views-counter.up.railway.app">
+</a>
+
+
 ## <img src="https://media.giphy.com/media/PjJ3G4xhh8KK6jQzqP/giphy.gif" width="34"> About
 
 - 🔭 I’m currently working on **Flutter Framework**
