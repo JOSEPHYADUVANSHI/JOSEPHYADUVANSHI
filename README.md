@@ -50,7 +50,7 @@ BYEE! <img src="https://media.giphy.com/media/xAqHUL21pMHe0/giphy.gif" width="30
 ![](https://github-views-counter.up.railway.app)
 
 <a href="https://github.com/antonkomarev/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=antonkomarev&style=for-the-badge">
+    <img src="https://komarev.com/ghpvc/?username=josephyaduvanshi&style=for-the-badge">
 </a>
 
 <a href="https://github.com/josephyaduvanshi/github_view_counter">
