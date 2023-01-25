@@ -67,7 +67,7 @@ BYEE! <img src="https://media.giphy.com/media/xAqHUL21pMHe0/giphy.gif" width="30
 
 ## <img src="https://media.giphy.com/media/iV6Ykak9ZBzgX7tOk6/giphy.gif" width=35> Coding Activity
 
-<img src="https://wakatime.com/share/@josephyaduvanshi/2601cbf5-9f97-46c7-8235-51f484fd5bd7.svg" alt="Coding Activity">
+<img src="https://wakatime.com/share/@josephyaduvanshi/2601cbf5-9f97-46c7-8235-51f484fd5bd7.svg" alt="Coding Activity" width="400">
 
 ## <img src="https://media.giphy.com/media/PH1TxJq570y68qujjO/giphy.gif" width="30"> Blog Posts
 
