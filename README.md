@@ -35,7 +35,7 @@ int main()
 }
 ```
 
-![](https://readme-typing-svg.demolab.com/?lines=Full-stack%20developer%20with%207+%20years%20of%20experience;%20Expert%20in%20Flutter,%20Python,%20and%20web%20scraping;%20Intermediate%20in%20multiple%20languages%20and%20technologies;%20Sci-fi%20enthusiast%20and%20self-motivated%20learner;%20Skilled%20in%20Git;Constantly%20expanding%20my%20tech%20stack;Passion%20for%20new%20technologies&font=Pacifico&duration=3000&pause=1000&color=F72E7DFF&center=true&vCenter=true&width=450&height=100&size=20)
+![](https://readme-typing-svg.demolab.com/?lines=Full-stack%20developer%20with%207+%20years%20of%20experience;%20Expert%20in%20Flutter,%20Python,%20and%20web%20scraping;%20Intermediate%20in%20multiple%20languages%20and%20technologies;%20Sci-fi%20enthusiast%20and%20self-motivated%20learner;%20Skilled%20in%20Git;Constantly%20expanding%20my%20tech%20stack;Passion%20for%20new%20technologies&font=Pacifico&duration=3000&pause=1000&color=0096FF&center=true&vCenter=true&width=450&height=100&size=20)
 
 <h3 align="center">TECH ENTHUSIAST || APP
 DEVELOPMENT <img src="https://media.giphy.com/media/vjSpbJ9VuX9gojDttn/giphy.gif" width="25"> || eatSleepCode —
